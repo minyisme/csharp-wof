@@ -1,0 +1,7 @@
+c:\users\v-miyan\source\repos\WheelOfFortune\WheelOfFortune\bin\Debug\WheelOfFortune.exe.config
+c:\users\v-miyan\source\repos\WheelOfFortune\WheelOfFortune\bin\Debug\WheelOfFortune.exe
+c:\users\v-miyan\source\repos\WheelOfFortune\WheelOfFortune\bin\Debug\WheelOfFortune.pdb
+c:\users\v-miyan\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.csprojAssemblyReference.cache
+c:\users\v-miyan\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.csproj.CoreCompileInputs.cache
+c:\users\v-miyan\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.exe
+c:\users\v-miyan\source\repos\WheelOfFortune\WheelOfFortune\obj\Debug\WheelOfFortune.pdb
